@@ -29,8 +29,8 @@ class Mission
 	randomSeed=7312376;
 	class Intel
 	{
-		briefingName="TOParma.com A3Wasteland Chernarus v1.1 extDB";
-		overviewText="TOP Wasteland Conquest Chernarus by TOPARMA.com - Core developed by A3Wasteland.com";
+		briefingName="MACchky.net A3Wasteland Chernarus v1.1 extDB";
+		overviewText="MAC Wasteland Conquest Chernarus by TOPARMA.com - Core developed by A3Wasteland.com";
 		resistanceWest=0;
 		startWeather=0.25;
 		startWind=0.099999994;
